@@ -1,5 +1,4 @@
-### (NeurIPS-2024) DISP-LLM: Dimension-Independent Structural Pruning for Large Language Models
-
+Pruning Techniques
 ---
 
 ####  Project Overview 
