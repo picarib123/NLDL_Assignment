@@ -1,0 +1,2 @@
+{"dataset": "pii", "model": "_cluster_projects_nn9342k_Loc_NLDL_toga_output_llama-3.2-3b-instruct-unlearn-p_0.80-wikitext-lam_16.0-ga_retain-v3", "leak_rate": 0.0, "reject_rate": 16.166666666666668, "leak_rate_wo_reject": 0.0}
+{"dataset": "all", "model": "_cluster_projects_nn9342k_Loc_NLDL_toga_output_llama-3.2-3b-instruct-unlearn-p_0.80-wikitext-lam_16.0-ga_retain-v3", "privacy_score": 100.0, "privacy_score_wo_reject": 100.0, "leak_rate": 0.0, "reject_rate": 4.8500000000000005, "leak_rate_wo_reject": 0.0}
